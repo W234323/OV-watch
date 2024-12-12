@@ -1,0 +1,16 @@
+.\objects\tasks.o: Middleware\FreeRTOS\FreeRTOS-Kernel\tasks.c
+.\objects\tasks.o: C:\Users\Admin\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tasks.o: C:\Users\Admin\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\FreeRTOS.h
+.\objects\tasks.o: C:\Users\Admin\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\tasks.o: C:\Users\Admin\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tasks.o: .\Application\USER\Core\FreeRTOSConfig.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\projdefs.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\portable.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\deprecated_definitions.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\portable\RVDS\ARM_CM4F\portmacro.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\mpu_wrappers.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\task.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\list.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\timers.h
+.\objects\tasks.o: .\Middleware\FreeRTOS\FreeRTOS-Kernel\include\stack_macros.h
